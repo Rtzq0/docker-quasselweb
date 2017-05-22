@@ -1,0 +1,5 @@
+---
+language: generic
+notifications:
+  webhooks:
+  - https://registry.hub.docker.com/u/rtzq0/docker-quasselweb/trigger/a66ba240-09dc-4f6d-8d37-a22d3e5ac92b/
