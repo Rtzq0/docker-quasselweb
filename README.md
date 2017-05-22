@@ -1,4 +1,8 @@
 # docker-quasselweb
+ [![Build Status](https://travis-ci.org/Rtzq0/docker-quasselweb.svg?branch=master)](https://travis-ci.org/Rtzq0/docker-quasselweb)
+ [![](https://images.microbadger.com/badges/image/rtzq0/docker-quasselweb.svg)](https://microbadger.com/images/rtzq0/docker-quasselweb "Get your own image badge on microbadger.com")
+ [![](https://images.microbadger.com/badges/version/rtzq0/docker-quasselweb.svg)](https://microbadger.com/images/rtzq0/docker-quasselweb "Get your own version badge on microbadger.com")
+ [![](https://images.microbadger.com/badges/commit/rtzq0/docker-quasselweb.svg)](https://microbadger.com/images/rtzq0/docker-quasselweb "Get your own commit badge on microbadger.com")
 
 Quassel web client on top of Alpine!
 
